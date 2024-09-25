@@ -9,8 +9,8 @@ body
 @media only screen and (max-width: 480px)
 {
     body{
-    background-color: yellow;
-    color: blue;
+    background-color: red;
+    color: white;
     }
 }
 
