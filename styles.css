@@ -6,11 +6,19 @@ body
     background-color: blue;
     color: white;
 }
+img{
+    float: right;
+    width:100%;
+    max-width: 760px;
+}
 @media only screen and (max-width: 480px)
 {
     body{
-    background-color: red;
-    color: white;
+        background-color: red;
+        color: white;
+    }
+    img{
+        width: 100%;
     }
 }
 
